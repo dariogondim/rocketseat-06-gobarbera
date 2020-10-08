@@ -35,7 +35,7 @@ export const Content = styled.div`
       padding: 16px;
       width: 100%;
 
-      &:::placeholder {
+      &::placeholder {
         color: #666360;
       }
 
